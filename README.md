@@ -10,6 +10,3 @@
 
 ### Tools
 
-# 📬: Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:t2wole@gmail.com)](mailto:t2wole@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Gmail&logoColor=white&link=mailto:t2wole@naver.com)](mailto:t2wole@naver.com)
