@@ -5,8 +5,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=t2wole)](https://solved.ac/t2wole)
 
-# 💪Skills
-### Languages
-
-### Tools
+[![trophy](https://github-profile-trophy.vercel.app/?username=t2wole&theme=chalk&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)  
+[![status](https://github-readme-streak-stats.herokuapp.com/?user=t2wole)](#)
 
