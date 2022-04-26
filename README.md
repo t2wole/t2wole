@@ -7,4 +7,3 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=t2wole&theme=chalk&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)  
 [![status](https://github-readme-streak-stats.herokuapp.com/?user=t2wole)](#)
-<a href="https://opgc.me/#/users/t2wole" target="_blank"><img src="https://api.opgc.me/githubs/users/t2wole/tag/?theme=basic" /></a>
